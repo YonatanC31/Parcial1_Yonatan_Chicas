@@ -8,18 +8,17 @@ Implementación de una interfaz web estática responsiva basada en el diseño re
 - TypeScript
 - Tailwind CSS v4
 
-## Instalación
+## Cómo ejecutar el proyecto
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Compilación
+## Generar versión final
 
 ```bash
 npm run build
-npm run preview
 ```
 
 ## Vistas
